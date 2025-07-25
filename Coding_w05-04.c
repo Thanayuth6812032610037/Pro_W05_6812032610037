@@ -6,9 +6,9 @@ int main() {
 
     // ข้อมูลผู้ใช้ 3 คน (ใส่ไว้ล่วงหน้า)
 
-    char name1[] = "Tide";
+    char name1[] = "whan";
 
-    int age1 = 20;
+    int age1 = 100;
 
     int height1 = 171;
 
@@ -18,11 +18,11 @@ int main() {
 
 
 
-    char name2[] = "Best";
+    char name2[] = "title";
 
-    int age2 = 20;
+    int age2 = 100;
 
-    int height2 = 175;
+    int height2 = 170;
 
     float weight2 = 55.0;
 
@@ -30,15 +30,15 @@ int main() {
 
 
 
-    char name3[] = "nam";
+    char name3[] = "name";
 
     int age3 = 20;
 
     int height3 = 170;
 
-    float weight3 = 52.0;
+    float weight3 = 51.0;
 
-    float grade3 = 2.00;
+    float grade3 = 3.00;
 
 
 
